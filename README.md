@@ -27,7 +27,12 @@ This analysis evaluates CRM data to uncover insights into sales team efficiency,
 - **Best Region**: Central contributed 58.9% of total revenue.  
 - **Best Manager**: Summer’s team achieved a 64.7% win rate.
 
- https://github.com/edwardopare/CRM-Analysis/blob/main/crm%20analysis.png 
+![CRM Dashboard](https://github.com/edwardopare/CRM-Analysis/blob/main/crm%20analysis.png)
+
+Key metrics shown:
+- User engagement trends
+- Customer interaction patterns
+- Sales performance indicators
 
 
 
