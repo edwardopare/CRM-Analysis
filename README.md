@@ -17,7 +17,7 @@ This analysis evaluates CRM data to uncover insights into sales team efficiency,
 
 
 ## **Tools & Technologies Used**  
-- The entire project is was made using Google Sheet
+- The entire project was made using Google Sheets
 
 
 
@@ -25,7 +25,9 @@ This analysis evaluates CRM data to uncover insights into sales team efficiency,
 ### 🏆 **Top Performers**  
 - **Best Sales Agent**: Darcel Schlecht with 349 closed deals. 
 - **Best Region**: Central contributed 58.9% of total revenue.  
-- **Best Manager**: Summer’s team achieved 64.7% win rate.  
+- **Best Manager**: Summer’s team achieved a 64.7% win rate.
+
+ https://github.com/edwardopare/CRM-Analysis/blob/main/crm%20analysis.png 
 
 
 
