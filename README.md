@@ -29,10 +29,7 @@ This analysis evaluates CRM data to uncover insights into sales team efficiency,
 
 ![CRM Dashboard](https://github.com/edwardopare/CRM-Analysis/blob/main/crm%20analysis.png)
 
-Key metrics shown:
-- User engagement trends
-- Customer interaction patterns
-- Sales performance indicators
+
 
 
 
